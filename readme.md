@@ -19,3 +19,12 @@ o en cmd
 
 pip install -r requirements.txt
 
+
+
+### Crear proyecto en GitHub
+
+git init
+git add .
+git commit -m "cambios"
+git remote add origin https://github.com/emmanuellopez1206/python_postgres_leer_csv.git
+git push origin master
